@@ -1,2 +1,2 @@
-Contains all the basic shell commands 
+Contains all the basic shells commands 
 
